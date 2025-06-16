@@ -3,7 +3,7 @@
 🌟 About
 Grid learning page.
 
-Site published at: https://rokasime.github.io/Grid/
+Site published at: https://github.com/MantasKukulskis/Grid
 
 🎯 Project features/goals
 grid
@@ -20,7 +20,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://github.com/RokasIme/Grid.git
+git clone https://github.com/MantasKukulskis/Grid.git
 Install NPM packages
 npm i
 or
